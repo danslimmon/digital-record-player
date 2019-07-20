@@ -151,7 +151,7 @@ Female/male wires can be used to connect the GPIO pins on the Raspberry Pi, keyp
 header, to the breadboard.  Female/female wires can be used to connect GPIO pins directly to other
 GPIO pins. It's a good idea to have both types.
 
-![Breadboard and jumper wires](images/breadboard-and-jumper-wires.jpg)
+![Breadboard](images/breadboard.jpg)
 
 ### Multimeter
 
